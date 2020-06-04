@@ -8,7 +8,7 @@
 
 网盘1群，存储1105G，进群费40r
 
-2020.4.18至今更新目录：<a href="http://t.cn/A62ytPZi" target="_blank">http://t.cn/A62ytPZi</a>
+2020.4.18至今更新目录：<a href="http://t.cn/A62ToSqY" target="_blank">http://t.cn/A62ToSqY</a>
 
 ***
 
