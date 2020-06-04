@@ -8,7 +8,7 @@
 
 网盘1群，存储1469G，进群费100r
 
-2020.4.18至2020.5.26更新：<a href="https://github.com/huangshanshao/gxml/wiki/2020.04.18%E8%87%B32020.06.05%E6%9B%B4%E6%96%B0"_blank">http://t.cn/A62ToSqY</a>
+2020.4.18至2020.5.26更新：
 
 ***
 
