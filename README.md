@@ -4,7 +4,7 @@
 
 ***
 
-网盘1群  容量1469G  进群50r
+网盘1群  容量1469G  100r打包全部资源
 
 2020.04.18至2020.05.26更新：【<a href="https://github.com/huangshanshao/gxml/wiki/2020.04.18%E8%87%B32020.06.05%E6%9B%B4%E6%96%B0" target="_blank">点击进入</a>】
 
