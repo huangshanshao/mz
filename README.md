@@ -38,6 +38,9 @@
 
 ### 网址导航之 日本AV：【<a href="https://github.com/huangshanshao/mz/wiki/%E6%97%A5%E6%9C%ACAV%E7%BD%91%E7%AB%99" target="_blank">点击进入</a>】
 
+<p>本项目开源已经有一年多，陆续有很多小伙伴使用这个主题制作了自己的导航网站，下面列出了一些我知道的基于webstack或者使用webstack主题开发的项目，都是做的比较好的一些小伙伴，供大家借鉴。也欢迎各位开发者把自己的项目加进来~ 发 Pull Request 或 Issue 即可
+（入选标准：必须是webstack项目相关的网站）</p>
+<table>
 <thead>
 <tr>
 <th>状态</th>
@@ -327,3 +330,7 @@
 <td><a href="https://fusfun.club/cn/index.html" rel="nofollow">浮生论坛 - 念念不忘，必有回响</a></td>
 </tr>
 </tbody>
+</table>
+<h2><a id="user-content-license" class="anchor" aria-hidden="true" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>License</h2>
+<p>Copyright © 2017-2018 <strong><a href="https://webstack.cc" rel="nofollow">webstack.cc</a></strong> Released under the <strong>MIT License</strong>.</p>
+<blockquote>
